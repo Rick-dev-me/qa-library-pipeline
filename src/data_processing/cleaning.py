@@ -7,9 +7,7 @@ All functions return new DataFrames without modifying the input.
 
 # Uncomment when needed:
 import pandas as pd
-from typing import List, Optional
-
-import logging
+from typing import logging
 
 logger = logging.getLogger(__name__)
 
